@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "438085929859",
+    "firebase_url": "https://triviahouse-8e686.firebaseio.com",
+    "project_id": "triviahouse-8e686",
+    "storage_bucket": "triviahouse-8e686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438085929859:android:db01536a2df61c3fcb44b6",
+        "android_client_info": {
+          "package_name": "com.justinallen.triviahouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438085929859-ceka7iv0tescak152vee9ei8r9kilnoc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justinallen.triviahouse",
+            "certificate_hash": "173cc9e27ec4621d55c8599c0bab47fc9236f52e"
+          }
+        },
+        {
+          "client_id": "438085929859-haur97gjbla9dnu3dvr9c5g3pc5oadae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArJd2tICU_iZ0FvN-M4-0E5AfJE31dXtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438085929859-haur97gjbla9dnu3dvr9c5g3pc5oadae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
